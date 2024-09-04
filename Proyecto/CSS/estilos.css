@@ -1,0 +1,24 @@
+*{
+    MARGIN: 0;
+    PADDING: 0;
+}
+body{
+    background: #3a3d47;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+.superior{
+    background: #1551a1;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 35px;
+}
+.menu{
+    float: left;
+}

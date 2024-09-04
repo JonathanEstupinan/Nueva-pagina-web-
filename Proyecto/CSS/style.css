@@ -1,0 +1,90 @@
+*{
+    MARGIN: 0;
+    PADDING: 0;
+}
+body{
+    background: #414553;
+    font-family: Verdana;
+}
+.container{
+    width: 1149px;
+    background: rgb(133, 135, 139);
+    margin: 20px auto;
+    text-align: center;
+
+}
+.superior{
+    background: #294364;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 250px;
+    padding: 15px;
+}
+/*estilos para el menu*/
+.menu{
+    float: right;
+    padding: 60px;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+    color: rgb(253, 253, 253);
+    padding: 25px;
+    text-decoration: none;
+    border:1px solid rgb(255, 255, 255);
+    text-align: center;
+}
+.opciones li a:hover{
+    background: #11386b;
+}
+.cuerpo{
+    overflow: hidden;
+}
+.caja{
+    float: left;
+    width: 380px;
+    margin: 0px;
+    text-align: center;
+    border: 1px solid;
+}
+.subtitulo{
+    background: #294364;
+}
+
+.servicios{
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+.efecto:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.contenido{
+    padding: 20px;
+    text-align: justify;
+}
+.boton{
+    padding: 15px 20px;
+    margin: 20px 0;
+    color: white;
+    background: #144a91;
+    border-radius: 5px;
+}
+.boton:hover{
+    background: #0c2c57;
+    cursor: pointer;
+}
+.titulo{
+    text-align: center;
+    padding: 20px 0 15px 0;
+    color:#d35107;
+}
+.pie{
+    background: #062348;
+    color: white;
+}
